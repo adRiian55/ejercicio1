@@ -2,6 +2,7 @@
 import random
  
 # -----------------------------------------------------
+Programa que suma todos los numeros pares que hay en la lista 
 # -----------------------------------------------------
 def sumarListaPares(lista):
     sum=0
