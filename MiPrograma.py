@@ -39,3 +39,5 @@ for i in range(0,len(lista)):
 if lista[i] % 2 == 0:
 sum=sum+lista[i]
 return sum
+
+#La parte sumarListaImpares funciona correctamente, suma los impares dentro del rango de la lista
