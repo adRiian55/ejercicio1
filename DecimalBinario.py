@@ -13,3 +13,6 @@ valor=valor+2**(n1)
 n =
 1
 return valor
+
+#El programa funciona correctamente
+
